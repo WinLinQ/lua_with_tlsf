@@ -1,0 +1,6 @@
+[submodule "lua"]
+	path = lua
+	url = https://github.com/lua/lua.git
+[submodule "tlsf"]
+	path = tlsf
+	url = https://github.com/mattconte/tlsf.git
